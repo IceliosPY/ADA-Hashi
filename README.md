@@ -1,2 +1,3 @@
-# ADA-Hashi
-A little project in ADA using GTK, winner of a programmation contest 
+# SAE S1.02
+
+Implementation d'un hashi
